@@ -1,0 +1,11 @@
+{
+  "name" : "paydaymasks",
+  "version" : "Stable 1.0",
+  "path" : ".",
+  "dependencies" : [],
+  "metadata" : {
+    "author" : "Magnusito",
+    "description" : "It's payday fellas",
+    "support_url" : ""
+  }
+}

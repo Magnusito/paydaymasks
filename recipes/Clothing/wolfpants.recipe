@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "fabric", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "wolfpants",
+    "count" : 1
+  },
+  "groups" : [ "craftingwheel", "clothes" ]
+}

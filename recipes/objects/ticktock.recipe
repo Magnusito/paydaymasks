@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 5 },
+	{ "item" : "wire", "count" : 5 },
+	{ "item" : "battery", "count" : 1 },
+	{ "item" : "bomb", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "ticktock",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}
